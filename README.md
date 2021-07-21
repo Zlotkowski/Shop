@@ -1,4 +1,4 @@
 # React Shopping Cart with Redux
 
-### Animations with React Reveal and React Modal
-### Backend with express, bodyParser, mongoose, shortid
+Animations with React Reveal and React Modal <br />
+Backend with express, bodyParser, mongoose, shortid
